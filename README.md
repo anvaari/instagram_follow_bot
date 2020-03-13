@@ -8,4 +8,8 @@ in order to handle csv file created, third code write to combine csv files into 
 
 In this project I use Python and selenium. 
 
-It's very intresting to send pull and help me improve it.
+#instagram_follow_bot_ver_1 is main code. it login to instagram, go to users page one by one and follow the certain number of their followers, add accounts which followed to csv file (using pandas). it need username.csv file whith spicial format at first to run! 
+#unfollow_bot_ver_1 is bot for unfollow accounts which followed before.
+#cobine_csvs comnine csvs created in #instagram_follow_bot_ver_1 into one csv.
+
+It's very intresting to send pull and help me to improve it.
