@@ -18,7 +18,7 @@ def int_followers(str_f):
         length-=1
     return num
 #introduce firefox to selenium
-firefoxdriver_path = 'E:\Tech\Progrmming\python\Instagram bot\Packages\geckodriver-v0.26.0-win64\geckodriver.exe' # Change this to your own firefox path!
+firefoxdriver_path = '' # fill this with your own firefox path!
 webdriver = webdriver.Firefox(executable_path=firefoxdriver_path)
 sleep(2)
 
